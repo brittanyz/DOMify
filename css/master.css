@@ -1,0 +1,45 @@
+body {
+  padding-left: 50px;
+}
+
+ul {
+  width: 55px;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.red {
+  background-color: #ff4d4d;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.yellow {
+  background-color: #ffff66;
+}
+
+.Blue {
+  background-color: lightblue;
+}
+
+.Red {
+  background-color: #ff4d4d;
+}
+
+.Yellow {
+  background-color: #ffff66;
+}
+
+.Green {
+  background-color: lightgreen;
+}
+
+.cat {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+}
