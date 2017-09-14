@@ -1,6 +1,6 @@
 # DOMify
 
-DOMify mimics the jQuery library in that it makes things like event handling, document manipulation, and Ajax requests much simpler.
+DOMify is a library that makes things like event handling, document manipulation, and Ajax requests much simpler.
 
 #### Some features include:
 * appending/removing content to/from the end of a specified element.
