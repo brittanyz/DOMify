@@ -1,9 +1,32 @@
 body {
   padding-left: 50px;
+  background-color: #595959;
+  color: white;
+}
+
+#header {
+  font-size: 35px;
+  /*color: #f9dec2;*/
+  min-height: 200px;
 }
 
 ul {
   width: 55px;
+  color: black;
+  background-color: #f9dec2;
+}
+
+button {
+  border-radius: 5px;
+}
+
+#cats {
+  list-style: none;
+  border: 2px solid #e6e6e6;
+  margin: 15px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .green {
